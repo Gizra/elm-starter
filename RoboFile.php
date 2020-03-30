@@ -18,7 +18,7 @@ class RoboFile extends \Robo\Tasks {
   /**
    * The compilation command to run.
    */
-  const COMPILE_CMD = 'elm make ./src/elm/Main.elm --output=../../drupal/web/modules/custom/server_elm/js/Search.js';
+  const COMPILE_CMD = 'elm make ./src/elm/Main.elm --output=../app/scripts/Main.js';
 
   /**
    * Compile the app; On success ...
