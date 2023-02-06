@@ -6,6 +6,7 @@
     "elm-version": "0.19.1",
     "dependencies": {
         "direct": {
+            "Gizra/elm-all-set": "1.0.1",
             "Gizra/elm-editable-webdata": "2.0.1",
             "Gizra/elm-fetch": "1.0.0",
             "Gizra/elm-storage-key": "1.1.1",
@@ -32,6 +33,7 @@
             "krisajenkins/remotedata": "5.0.0",
             "lukewestby/elm-http-builder": "6.0.0",
             "myrho/elm-round": "1.0.4",
+            "pzp1997/assoc-list": "1.0.0",
             "rtfeldman/elm-iso8601-date-strings": "1.1.3",
             "ryannhg/date-format": "2.3.0",
             "stoeffel/editable": "2.0.1",
